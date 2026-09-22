@@ -14,7 +14,7 @@ Analyze the provided patient scenario, review the medication history and timelin
 | Field | Information |
 |---|---|
 | Patient | Female |
-| Age | 45 years |
+| Age | 32 years |
 
 ## 2. Presenting Symptoms
 
